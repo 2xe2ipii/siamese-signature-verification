@@ -1,0 +1,7 @@
+tensorflow==2.13.0
+tensorflow-io-gcs-filesystem==0.34.0
+opencv-python
+numpy
+scikit-learn
+matplotlib
+pillow
