@@ -3,10 +3,5 @@ numpy==1.26.4
 opencv-python==4.9.0.80
 matplotlib==3.7.5
 scikit-learn==1.3.2
-
-# Required by TF
-protobuf==3.20.3
 h5py==3.8.0
-
-#Optional to
 json5==0.9.14
